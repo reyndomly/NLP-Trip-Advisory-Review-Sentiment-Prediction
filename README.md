@@ -11,6 +11,6 @@ This repo is my personal project when i'm learning NLP to predict sentiment on T
 
 Create new environment
 
-...
+```
 conda create -p venv python==3.9 -y
-...
+```
