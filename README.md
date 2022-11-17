@@ -14,3 +14,13 @@ Create new environment
 ```
 conda create -p venv python==3.9 -y
 ```
+
+and JSON Input format
+
+```
+{
+    data:'Your review here'
+}
+```
+
+THE PERFORMANCE STILL PRETTY BAD!!!
